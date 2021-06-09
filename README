@@ -11,3 +11,5 @@ The code is structured in several files in which there are many classes. The wor
 - the colorPalette class in which there are the set of colors that the user can use to draw.
 The libraries used are UIKit for structuring views and for the architecture of Pixelic features and PlaygroundSupport to build the playground book interface.
 This playground book aims to inspire creativity and at the same time teach important programming concepts in a simple and light way.
+
+YOUTUBE Video Link: - https://www.youtube.com/watch?v=GYG32VN2mD8
