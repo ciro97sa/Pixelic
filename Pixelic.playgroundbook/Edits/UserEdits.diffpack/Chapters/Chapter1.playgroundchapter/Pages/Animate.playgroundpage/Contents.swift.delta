@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>3</string>
+			<key>ModifiedRange</key>
+			<string>{1025, 1}</string>
+			<key>OriginalContent</key>
+			<string>2</string>
+			<key>OriginalRange</key>
+			<string>{1025, 1}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>.1764705926179886</string>
+			<key>ModifiedRange</key>
+			<string>{1192, 17}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{1192, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>.0117647061124444</string>
+			<key>ModifiedRange</key>
+			<string>{1219, 17}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{1202, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>.5607843399047852</string>
+			<key>ModifiedRange</key>
+			<string>{1245, 17}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{1211, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>.0</string>
+			<key>ModifiedRange</key>
+			<string>{1272, 2}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{1221, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>createWorkspace(Workspace: myWorkspace)
+</string>
+			<key>ModifiedRange</key>
+			<string>{2211, 40}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{2158, 0}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>Chapters/Chapter1.playgroundchapter/Pages/Animate.playgroundpage/Contents.swift</string>
+</dict>
+</plist>

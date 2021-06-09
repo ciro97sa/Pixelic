@@ -1,0 +1,13 @@
+Pixelic is a playground book that offers to the user the possibility to create a work space where he can be free to draw what he wants, having the possibility to choose the theme to use, the background of the work space, the colors  and the size ,in height and width, of it. The user can be inspired by some images suggested by the platform and try to represent them, or he can try to draw whatever he wants. Once he has drawn his own image, he can save it in the photo library. Pixelic consists of an introduction for which the Hype 3 tool was used to create its main page in html using the resources created by the subscriber, such as the logo and the background. Inside it there is a small description of the playground.
+The first chapter presents two pages:
+The first shows all the features and functionality of the
+playground through the use of three images that describe how to proceed to create his own design.
+The second page introduces the concept of class and instance of a class.
+In fact, the user must first define the variables and then, after inserting them into his own instance, he can create his own workspace.
+This type of approach has been used in order to allow the user to learn the basic concepts regarding these topics. Then there is the creative part of the playground . Immediately after creating the workspace, the user is free to draw whatever he wants.
+The code is structured in several files in which there are many classes. The workspace class is made up of several classes:
+- the Sketch class that use the pixel Class to represent the area in which the user can draw;
+- the ControlCenter class in which there are three buttons for undo, redo and save operations;
+- the colorPalette class in which there are the set of colors that the user can use to draw.
+The libraries used are UIKit for structuring views and for the architecture of Pixelic features and PlaygroundSupport to build the playground book interface.
+This playground book aims to inspire creativity and at the same time teach important programming concepts in a simple and light way.

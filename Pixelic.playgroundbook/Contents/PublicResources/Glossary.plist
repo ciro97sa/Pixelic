@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>Int</key>
+		<dict>
+			<key>Title</key>
+			<string>Int</string>
+			<key>Definition</key>
+			<string>A type that stores an integer—a number that has no decimal, such as `10` or `-42`. </string>
+		</dict>
+		<key>variable</key>
+		<dict>
+			<key>Title</key>
+			<string>Variable</string>
+			<key>Definition</key>
+			<string>A named container that stores a value that can be changed. </string>
+		</dict>
+		<key>method</key>
+		<dict>
+			<key>Title</key>
+			<string>Method</string>
+			<key>Definition</key>
+			<string>A function, or set of commands, that’s defined inside a type.</string>
+		</dict>
+		<key>function</key>
+		<dict>
+			<key>Title</key>
+			<string>Function</string>
+			<key>Definition</key>
+			<string>A named set of commands that can be run whenever needed.</string>
+		</dict>
+		<key>color</key>
+		<dict>
+			<key>Title</key>
+			<string>Color</string>
+			<key>Definition</key>
+			<string>It&apos;s an object of the class &apos;UIColor&apos;  that stores color data and sometimes opacity </string>
+		</dict>
+		<key>array</key>
+		<dict>
+			<key>Title</key>
+			<string>Array</string>
+			<key>Definition</key>
+			<string>A collection that stores an ordered list of items of the same type. The same item can appear multiple times in different positions. For example, `highScores = [37, 34, 29, 29, 26]` is an array of integers.</string>
+		</dict>
+		<key>theme</key>
+		<dict>
+			<key>Title</key>
+			<string>Theme</string>
+			<key>Definition</key>
+			<string>An enumeration of theme cases,  that stores a list of colors based on your theme choice . For example if you write &apos;theme.basic&apos; you are calling a case of the enumeration theme.</string>
+		</dict>
+		<key>width</key>
+		<dict>
+			<key>Definition</key>
+			<string>An integer used to create your workspace interface. Used to store how many pixels your work space is made up of.</string>
+			<key>Title</key>
+			<string>Width</string>
+		</dict>
+		<key>height</key>
+		<dict>
+			<key>Title</key>
+			<string>Height</string>
+			<key>Definition</key>
+			<string>An integer used to create your workspace interface. Used to store how many pixels your work space is made up of.</string>
+		</dict>
+		<key>pixel</key>
+		<dict>
+			<key>Title</key>
+			<string>Pixel</string>
+			<key>Definition</key>
+			<string>The smallest element of an image that can be individually processed in a video display system. Programmatically it&apos;s a little view formed by a width and an height. Our workspace is formed by a lot of this pixel!</string>
+		</dict>
+		<key>view</key>
+		<dict>
+			<key>Definition</key>
+			<string>An object that manages the content for a rectangular area on the screen.</string>
+			<key>Title</key>
+			<string>View</string>
+		</dict>
+		<key>class</key>
+		<dict>
+			<key>Definition</key>
+			<string>a class is an extensible program-code-template for creating objects, providing initial values for state (member variables) and implementations of behavior (member functions or methods).</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter1.playgroundchapter/Animate.playgroundpage</string>
+				<key>Title</key>
+				<string>Class</string>
+			</dict>
+		</dict>
+		<key>instance</key>
+		<dict>
+			<key>Definition</key>
+			<string>A value of a particular type. For example, in `let myWorkspace = Workspace()`, `myWorkspace` is an instance of type `Workspace`.</string>
+			<key>Title</key>
+			<string>Instance</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
